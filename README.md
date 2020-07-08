@@ -1,2 +1,2 @@
 # Business-Analytics-Projects
-Data science based on business scenarios
+Data science projects based on business scenarios
